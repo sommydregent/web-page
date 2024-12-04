@@ -1,0 +1,10 @@
+#back{
+    background-image:  url(../1.4.png);
+    height: 100vh;
+}
+#home{
+    padding-left: 100px;
+}
+#form{
+    padding-right: 50px;
+}
